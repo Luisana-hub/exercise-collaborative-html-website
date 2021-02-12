@@ -1,9 +1,16 @@
 body{
-    background: #BDBDBD;
+    /* background: #BDBDBD; */
 }
 
 #mitest{
     color: red;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 600;
+}
+
+.section {
+
+  margin-bottom: 100px;
+  
+
 }
